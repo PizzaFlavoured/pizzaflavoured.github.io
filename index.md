@@ -11,4 +11,4 @@ Feel free to check my repositories out!
 
 ---
 
-*Rodrigo*, 16
+*Rodrigo*
